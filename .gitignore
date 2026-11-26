@@ -1,6 +1,10 @@
-
-# Dataset
+# Dataset files
 dataset/
+*.csv
+
+# Database files
+*.sqlite
+*.db
 
 # Python cache
 __pycache__/
@@ -12,7 +16,3 @@ venv/
 
 # VS Code settings
 .vscode/
-
-# Operating system files
-.DS_Store
-Thumbs.db
